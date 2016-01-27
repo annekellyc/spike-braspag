@@ -3,7 +3,7 @@ Simple console application integrating with Braspag.
 
 Braspag API documentation: http://apidocs.braspag.com.br/
 
-## Configuring environment variables in your bash_profile or zhsrc file:
+## Configuring environment variables in your bash_profile or zshrc file:
 ```
 export MERCHANT_ID=<merchant_id>
 export MERCHANT_KEY=<merchant_key>
